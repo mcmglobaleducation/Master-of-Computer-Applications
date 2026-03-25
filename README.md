@@ -2,7 +2,7 @@
 
 The Master of Computer Applications, commonly known as MCA, is a postgraduate program designed to provide advanced knowledge and practical skills in computer science and software applications. In today’s technology-driven world, information technology plays a crucial role in every sector. Companies and organizations require skilled professionals who can develop software, manage databases, and provide innovative IT solutions. MCA equips students with the expertise needed to succeed in the information technology industry.  
 
-This guide provides a detailed overview of MCA, including eligibility, curriculum, career opportunities, practical training, and the advantages of pursuing this degree. It also includes links to [MCM Global Education](https://www.mcmglobaleducation.com/mca-master-of-computer-applications/) and [MCM Global Education official website](https://www.mcmglobaleducation.com) for further reading.
+This guide provides a detailed overview of MCA, including eligibility, curriculum, career opportunities, practical training, and the advantages of pursuing this degree. It also includes links to [MCM Global Education]([https://www.mcmglobaleducation.com/mca-master-of-computer-applications/](https://www.mcmglobaleducation.com/mca-degree/)) and [MCM Global Education official website](https://www.mcmglobaleducation.com) for further reading.
 
 ---
 
@@ -12,7 +12,7 @@ Master of Computer Applications is a three-year postgraduate program that focuse
 
 The course is structured to provide both academic knowledge and hands-on experience through projects and internships. This ensures that graduates are prepared to meet the challenges of the modern IT industry.
 
-For more details on MCA programs, you can visit [MCM Global Education](https://www.mcmglobaleducation.com/mca-master-of-computer-applications/).
+For more details on MCA programs, you can visit [MCM Global Education]([https://www.mcmglobaleducation.com/mca-master-of-computer-applications/](https://www.mcmglobaleducation.com/mca-degree/)).
 
 ---
 
@@ -118,12 +118,12 @@ MCM Global Education offers a well-structured MCA program that combines academic
 
 Master of Computer Applications is a valuable postgraduate program for students interested in computer science and IT. It equips students with technical expertise, analytical skills, and professional knowledge needed to succeed in a competitive industry. MCA graduates have a wide range of career options and can contribute to software development, IT management, cybersecurity, and emerging technology domains.  
 
-For those considering an MCA program, [MCM Global Education](https://www.mcmglobaleducation.com/mca-master-of-computer-applications/) provides detailed guidance, a globally recognized curriculum, and support for career development. Pursuing MCA can be the first step toward a rewarding and successful career in information technology.
+For those considering an MCA program, [MCM Global Education]([https://www.mcmglobaleducation.com/mca-master-of-computer-applications/](https://www.mcmglobaleducation.com/mca-degree/)) provides detailed guidance, a globally recognized curriculum, and support for career development. Pursuing MCA can be the first step toward a rewarding and successful career in information technology.
 
 ---
 
 ## References
 
-- [MCM Global Education MCA Program](https://www.mcmglobaleducation.com/mca-master-of-computer-applications/)  
+- [MCM Global Education MCA Program]([https://www.mcmglobaleducation.com/mca-master-of-computer-applications/](https://www.mcmglobaleducation.com/mca-degree/))  
 - [MCM Global Education Official Website](https://www.mcmglobaleducation.com)  
 
